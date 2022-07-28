@@ -6,7 +6,7 @@ let cor = 0;
 
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(500, 300);
   colorMode (HSB, 100);
 }
 
